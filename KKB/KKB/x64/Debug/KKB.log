@@ -1,9 +1,8 @@
-﻿  pch.cpp
+﻿  KKB.cpp
   Kanal.cpp
-d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kanal.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kanal.cpp(42): warning C4305: '=': truncation from 'double' to 'float'
-d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kanal.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kanal.cpp(46): warning C4305: '=': truncation from 'double' to 'float'
-  KKB.cpp
+d:\semestr9\git\kkb\kkb\kkb\kanal.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\semestr9\git\kkb\kkb\kkb\kanal.cpp(42): warning C4305: '=': truncation from 'double' to 'float'
+d:\semestr9\git\kkb\kkb\kkb\kanal.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\semestr9\git\kkb\kkb\kkb\kanal.cpp(46): warning C4305: '=': truncation from 'double' to 'float'
   Generating Code...
-  KKB.vcxproj -> D:\Studia\mgr\kodowanie_sem2\KKB\KKB\x64\Debug\KKB.exe
+  KKB.vcxproj -> D:\SEMESTR9\git\KKB\KKB\x64\Debug\KKB.exe
