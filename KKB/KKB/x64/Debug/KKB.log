@@ -1,4 +1,5 @@
 ﻿  KKB.cpp
+<<<<<<< HEAD
   Kanal.cpp
 d:\semestr9\git\kkb\kkb\kkb\kanal.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 d:\semestr9\git\kkb\kkb\kkb\kanal.cpp(42): warning C4305: '=': truncation from 'double' to 'float'
@@ -6,3 +7,7 @@ d:\semestr9\git\kkb\kkb\kkb\kanal.cpp(43): warning C4244: '=': conversion from '
 d:\semestr9\git\kkb\kkb\kkb\kanal.cpp(46): warning C4305: '=': truncation from 'double' to 'float'
   Generating Code...
   KKB.vcxproj -> D:\SEMESTR9\git\KKB\KKB\x64\Debug\KKB.exe
+=======
+d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kkb.cpp(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KKB.vcxproj -> D:\Studia\mgr\kodowanie_sem2\KKB\KKB\x64\Debug\KKB.exe
+>>>>>>> task-lwieczorek
