@@ -1,3 +1,4 @@
 ﻿  KKB.cpp
-d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kkb.cpp(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kkb.cpp(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : D:\Studia\mgr\kodowanie_sem2\KKB\KKB\x64\Debug\KKB.exe not found or not built by the last incremental link; performing full link
   KKB.vcxproj -> D:\Studia\mgr\kodowanie_sem2\KKB\KKB\x64\Debug\KKB.exe
