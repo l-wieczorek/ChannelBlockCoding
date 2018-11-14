@@ -1,0 +1,6 @@
+﻿  KKB.cpp
+d:\semestr9\kodowanie kanalowe i zr\kk\kkb\kkb\kkb.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\semestr9\kodowanie kanalowe i zr\kk\kkb\kkb\kkb.cpp(45): warning C4305: '=': truncation from 'double' to 'float'
+d:\semestr9\kodowanie kanalowe i zr\kk\kkb\kkb\kkb.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\semestr9\kodowanie kanalowe i zr\kk\kkb\kkb\kkb.cpp(49): warning C4305: '=': truncation from 'double' to 'float'
+  KKB.vcxproj -> D:\SEMESTR9\kodowanie kanalowe i zr\KK\KKB\Debug\KKB.exe
