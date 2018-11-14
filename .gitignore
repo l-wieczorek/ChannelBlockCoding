@@ -1,2 +1,7 @@
 Browse.VC.opendb
-*.ipch
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
