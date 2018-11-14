@@ -1,1 +1,6 @@
-﻿  KKB.vcxproj -> D:\Studia\mgr\kodowanie_sem2\KKB\KKB\x64\Debug\KKB.exe
+﻿  Kanal.cpp
+d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kanal.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kanal.cpp(41): warning C4305: '=': truncation from 'double' to 'float'
+d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kanal.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\studia\mgr\kodowanie_sem2\kkb\kkb\kkb\kanal.cpp(45): warning C4305: '=': truncation from 'double' to 'float'
+  KKB.vcxproj -> D:\Studia\mgr\kodowanie_sem2\KKB\KKB\x64\Debug\KKB.exe

@@ -26,5 +26,8 @@
     <ClCompile Include="KKB.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Kanal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
