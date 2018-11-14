@@ -4,6 +4,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <malloc.h>
+#include "Kanal.hpp"
 #define PI 3.141592654
  
 float gauss(float mean, float sigma);
