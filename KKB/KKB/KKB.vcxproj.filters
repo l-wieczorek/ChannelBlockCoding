@@ -21,6 +21,9 @@
     <ClInclude Include="Kanal.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="DecodingTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -30,6 +33,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Kanal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DecodingTable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

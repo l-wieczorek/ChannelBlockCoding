@@ -151,10 +151,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="DecodingTable.h" />
     <ClInclude Include="Kanal.hpp" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DecodingTable.cpp" />
     <ClCompile Include="Kanal.cpp" />
     <ClCompile Include="KKB.cpp" />
     <ClCompile Include="pch.cpp">
